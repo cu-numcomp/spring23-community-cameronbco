@@ -1,24 +1,21 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
-
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+## Software: Gonum Matrix Library
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
+| Repository URL |  https://github.com/gonum/gonum.git  | 
+| Main/documentation website |  https://godocs.io/gonum.org/v1/gonum/mat  |
+| Year project was started | 2017 |
+| Number of contributors in the past year | Three people |
+| Number of contributors in the lifetime of the project | 109 people |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
+| Where do development discussions take place? | https://groups.google.com/forum/#!forum/gonum-dev (Google Groups) and Github Issue Board |
+| Typical number of emails/comments per week? | Only around two new messages every three months |
+| Typical number of commits per week? |  Sparing, around one every 3 months |
 | Typical commit size | `git log --shortstat` may be useful |
 | How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
 | Does the project have an automated test suite? | yes/no |
