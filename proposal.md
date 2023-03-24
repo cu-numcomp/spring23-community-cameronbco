@@ -12,7 +12,7 @@ Please edit this file and push to your repository.
 | Year project was started | 2017 |
 | Number of contributors in the past year | Three people |
 | Number of contributors in the lifetime of the project | 109 people |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
+| Number of distinct affiliations | >10 |
 | Where do development discussions take place? | https://groups.google.com/forum/#!forum/gonum-dev (Google Groups) and Github Issue Board |
 | Typical number of emails/comments per week? | Only around two new messages every three months |
 | Typical number of commits per week? |  Sparing, around one every 3 months |
